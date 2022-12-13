@@ -1,7 +1,7 @@
 ### Olá pessoal, sou Catia Manuel (Katty)♎🥰
 - Sou Full-Stack💻💜Amo programar👩🏾‍💻
 - Sou guineense, mãe👩‍👧, preta!
-- 😄 Meus pronomes são: Ela/Dela
+- Meus pronomes são: Ela/Dela
 <div align="center">
   <a href="https://github.com/CatiaManuel0310">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CatiaManuel0310&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
